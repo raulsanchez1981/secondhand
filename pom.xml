@@ -7,10 +7,10 @@
     <artifactId>second-hand</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
-        <module>web-module</module>
+        <module>model-module</module>
         <module>repository-module</module>
         <module>service-module</module>
-        <module>model-module</module>
+        <module>web-module</module>
     </modules>
     <packaging>pom</packaging>
     <name>second-hand</name>
