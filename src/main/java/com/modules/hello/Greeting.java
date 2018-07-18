@@ -1,4 +1,4 @@
-package hello;
+package com.modules.hello;
 
 public class Greeting {
 
