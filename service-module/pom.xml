@@ -11,5 +11,15 @@
 
     <artifactId>service-module</artifactId>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>repository-module</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+    </dependencies>
+
 
 </project>
