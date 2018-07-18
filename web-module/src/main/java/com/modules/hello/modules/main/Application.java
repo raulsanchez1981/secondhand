@@ -1,10 +1,10 @@
-package com.modules.main;
+package com.modules.hello.modules.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan("com.modules")
+@ComponentScan("com.modules.hello.modules")
 @SpringBootApplication
 public class Application {
 
